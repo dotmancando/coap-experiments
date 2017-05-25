@@ -1,0 +1,6 @@
+hash: def8e3403d218965ec6d395ca234a6a0bc12126b67497a0a11caf3444f6646d2
+updated: 2017-05-25T16:58:20.109298766+01:00
+imports:
+- name: github.com/dustin/go-coap
+  version: ddcc80675fa42611359d91a6dfa5aa57fb90e72b
+testImports: []
